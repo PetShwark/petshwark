@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - I'm an Applications Programmer for the [College of Arts and Sciences](https://https://www.udel.edu/academics/colleges/cas/) at the [University of Delaware](https://www.udel.edu) (*go Hens*!)
+- This is my personal projects GitHub account.
 - For fun, I'm currently learning Go, TypeScript and Python back-end development and data analysis with the help of [Boot.dev](https://boot.dev) (*recommended*!)
 - [Check out my blog](https://peterschwenk.com)
 - Last, *but not least*, I'm a proud husband and father.
